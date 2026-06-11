@@ -43,6 +43,16 @@ It is related to my broader work in:
 * personalization safety
 * interaction-level model behavior
 
+Related Projects
+
+* Third-Space Cognition Dataset — Exploratory qualitative dataset of coded human-AI interaction observations.
+* Interaction Drift Monitor — Conceptual Python prototype for monitoring semantic drift across sustained human-AI interaction.
+
+Related Paper
+
+Third-Space Cognition: Interaction-Level Dynamics in Sustained Human-AI Coupling
+Zenodo DOI: 10.5281/zenodo.18679265
+
 Technologies Used
 
 * Python
